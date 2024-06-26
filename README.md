@@ -8,8 +8,13 @@ Requirements
 > Python 3.x
 
 How to Play
+
 1.Run the script.
+
 2.The program will prompt you to enter a guess.
+
 3.Enter a number between 1 and 100.
+
 4.The program will tell you if your guess is too high, too low, or correct.
+
 5.Keep guessing until you
