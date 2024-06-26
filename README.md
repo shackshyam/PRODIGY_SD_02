@@ -1,4 +1,4 @@
-Guessing Game
+#Guessing Game
 Welcome to the Guessing Game! This is a simple Python program where you need to guess a randomly generated number between 1 and 100.
 
 Introduction
